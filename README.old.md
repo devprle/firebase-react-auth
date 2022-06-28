@@ -1,2 +1,4 @@
 # firebase-react-auth
-Creating authentication flow with firebase and react
+Creating authentication flow with React.
+Using: 
+Firebase, Context
